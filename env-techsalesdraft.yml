@@ -2,7 +2,7 @@
 ###################################### BASIC CONFIGURATION ######################################
 #################################################################################################
 
-contact: tanytest@aveva.com # used for tagging and sending licences (see documentation)
+contact: tanytest@aveva.com Tags have been added # used for tagging and sending licences (see documentation)
 stage: techsale1 # unique stage (lowercase, maximum 8 characters)
 region: eu-west-1
 awsProfile: ${opt:profile, 'default'}
